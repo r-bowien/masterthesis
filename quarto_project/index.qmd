@@ -1,0 +1,35 @@
+---
+title: The New Sound of Politics
+authors:
+  - name: Robert Bowien
+    affiliation: University College Dublin
+    roles: writing
+    corresponding: true
+bibliography: references.bib
+---
+
+# Introduction
+
+# Research Question
+
+
+# Literature Review
+
+WHAT IS THE RESEARCH GAP?
+
+# Theory
+
+## Hypotheses
+
+# Methodology
+
+# Results and Discussion
+
+## Limitations
+
+# Conclusion
+
+# NOTES
+
+
+can computer vision techniques also identify messages or sentiment of images or memes or videos? e.g. text within an image classifying the context and then deriving a message?
