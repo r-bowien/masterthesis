@@ -1,5 +1,5 @@
 ---
-title: The New Sound of Politics
+title: The new face of political media
 authors:
   - name: Robert Bowien
     affiliation: University College Dublin
@@ -10,8 +10,20 @@ bibliography: references.bib
 
 # Introduction
 
+Digital media has become the most prevalent source of information. Never before has information been as accessible. Assuming accessible information improves accountability, democracies should be closer to perfect accountability than ever before. Yet, public discourse is often dominated by emotion paired with incomplete information rather than fact, especially when discourse happens on social media. The choice of information medium is not between analogue or digital anymore. It is about which algorithm we trust to offer us information. It is about how conscious we consume information. It is about the value of truth in a world where information is always entertainment.
+
+
 # Research Question
 
+How does the choice of social media platform influence public opinion on democratic representatives and democratic institutions?
+
+How political discourse is shaped by cultural exchange on social media platforms e.g. through memes or short videos?
+
+This would then focus on platform level discourse and inferences about public opinion would be limited to digital spheres.
+
+How are cultural items utilised to influence political discourse on social media platforms?
+
+How are memes utilised to influence political discourse on Bluesky?
 
 # Literature Review
 
@@ -23,13 +35,22 @@ WHAT IS THE RESEARCH GAP?
 
 # Methodology
 
+Simple surveys asking for information consumption habits are not sufficient to address this question. It is necessary to examine content between platforms and habits of consuming that content.
+Ideally the project would include data on information consumption habits paired with quantitative content analysis and statistical modelling. Data on consumption habits (that include posted and interacted content) is difficult to access and collecting statistically meaningful survey data with the limited resources of a master's student is not feasible. Hence, the methodological approach would not include individual level data and only use platforms that provide API access. Utilizing capabilities of AI, prevalent political content could be analysed across various metrics and classified on political scales.
+
 # Results and Discussion
 
 ## Limitations
+
+Bluesky is a small platform and its users are mostly left-leaning. The results would not be transferable to other platforms, especially when it comes to right-leaning content.
 
 # Conclusion
 
 # NOTES
 
+
+Data needs to contain images or even videos (depending on availability) rather than text.
+Data is then used to train a model which should predict if it is right-leaning, left-leaning, neutral, polarising, empowering, etc...
+Is this feasible? What do I need to pay special attention to? Do you have ideas regarding the data gathering process?
 
 can computer vision techniques also identify messages or sentiment of images or memes or videos? e.g. text within an image classifying the context and then deriving a message?
