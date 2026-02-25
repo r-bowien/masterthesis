@@ -12,8 +12,13 @@ bibliography: references.bib
 
 Digital media has become the most prevalent source of information. Never before has information been as accessible. Assuming accessible information improves accountability, democracies should be closer to perfect accountability than ever before. Yet, public discourse is often dominated by emotion paired with incomplete information rather than fact, especially when discourse happens on social media. The choice of information medium is not between analogue or digital anymore. It is about which algorithm we trust to offer us information. It is about how conscious we consume information. It is about the value of truth in a world where information is always entertainment.
 
+Entertainment is the universal language of social media. Information that does not entertain on social media does not survive. In this world, something thrives that rarely finds its way to the real haptic world. This something are memes. Today we speak and think of a meme solely in the digital context, although its origins date back to the year 1976 where Richard Dawkins describes a meme as "...tunes, ideas, catch-phrases, clothes fashions, ways of making pots or of building arches."[@dawkins_selfish_2016]
+
+Memes consistently get a lot of online engagement and reach, they are easy to access, work with simple language and images, an idea or argument is transferred quicker than with any other form of post and its fun (entertainment).
 
 # Research Question
+
+What
 
 How does the choice of social media platform influence public opinion on democratic representatives and democratic institutions?
 
@@ -25,18 +30,25 @@ How are cultural items utilised to influence political discourse on social media
 
 How are memes utilised to influence political discourse on Bluesky?
 
+what parties focus on what metrics? --\> which metric do parties aim to be highest? more engagement or more reach? --\>
+
 # Literature Review
 
 WHAT IS THE RESEARCH GAP?
 
+The consuming side of social media in general has been widely studied [@boulianne2015]. It fosters political participation when individuals engage with political content through social media [@kahne_political_2018; @halversen_memeing_2023]. The distributing side however, seems to fly under the radar, questions about the utility of social media for vote-seeking political actors remain largely unadressed in the literature although parties and politicians have long realised how important a successfull social media presence is.
+
+Although memes play a crucial role in cultural exchange, their impact on public opinion remains heavily understudied. While social media in general has rapidly risen to become the most studied predictor of public opinion \[SOURCE\], their exclusive cultural phenomenon seems to be ignored by many.
+
 # Theory
+
+Political actors want to reach the voting population --\> social media offers new tool to do that, bypassing lense of 5th power (the media) --\> political actors looking for best way to utilise that new tool --\> memes are a superior way (transport information hidden beneath a layer of entertainment) –\> potential voters can be drawn towards a political narrative without being interested in politics
 
 ## Hypotheses
 
 # Methodology
 
-Simple surveys asking for information consumption habits are not sufficient to address this question. It is necessary to examine content between platforms and habits of consuming that content.
-Ideally the project would include data on information consumption habits paired with quantitative content analysis and statistical modelling. Data on consumption habits (that include posted and interacted content) is difficult to access and collecting statistically meaningful survey data with the limited resources of a master's student is not feasible. Hence, the methodological approach would not include individual level data and only use platforms that provide API access. Utilizing capabilities of AI, prevalent political content could be analysed across various metrics and classified on political scales.
+Simple surveys asking for information consumption habits are not sufficient to address this question. It is necessary to examine content between platforms and habits of consuming that content. Ideally the project would include data on information consumption habits paired with quantitative content analysis and statistical modelling. Data on consumption habits (that include posted and interacted content) is difficult to access and collecting statistically meaningful survey data with the limited resources of a master's student is not feasible. Hence, the methodological approach would not include individual level data and only use platforms that provide API access. Utilizing capabilities of AI, prevalent political content could be analysed across various metrics and classified on political scales.
 
 # Results and Discussion
 
@@ -48,9 +60,34 @@ Bluesky is a small platform and its users are mostly left-leaning. The results w
 
 # NOTES
 
-
-Data needs to contain images or even videos (depending on availability) rather than text.
-Data is then used to train a model which should predict if it is right-leaning, left-leaning, neutral, polarising, empowering, etc...
-Is this feasible? What do I need to pay special attention to? Do you have ideas regarding the data gathering process?
+Data needs to contain images or even videos (depending on availability) rather than text. Data is then used to train a model which should predict if it is right-leaning, left-leaning, neutral, polarising, empowering, etc... Is this feasible? What do I need to pay special attention to? Do you have ideas regarding the data gathering process?
 
 can computer vision techniques also identify messages or sentiment of images or memes or videos? e.g. text within an image classifying the context and then deriving a message?
+
+## Connected politics seminar: Visual Descriptive Representation and Gender Gaps in Parties’ Visual Communication - Malo Jan, Noémie Piolat, Luis Sattelmayer (Sciences Po)
+
+context: who is seen in party communication on social media? aspect: how do parties represent women in their political communication? is there a systematic gender gap?
+
+early stage work goal atm: theorize visual descriptive representation --\> descriptive repr. = how well are groups of society represented across political representatives? women are chronically underrepresented
+
+descr. repr. generally have a positive effect, hence its important
+
+literature says: parties try to leverage descriptive representation to sway voters in their favour
+
+visuals act as "lingua franca" of politics. visuals are the first thing we encounter, easy way of priming voters, amplified by social media, also: social media allows party to control what is out there, whereas with media, it will always be changed through the lense of the reporting instance. --\> easier to build party brand on social media, do parties use this to present women visually?
+
+strategic element: compare how true descriptive repr. is to social media descr. repr.
+
+expect visually descr. repr. to be bad.
+
+unclear: if parties strategically use visually descr. repr. on social media to get female voters, why do you expect them to be underrepresented? Compared to male descr.repr. on social media or in parliament?
+
+atm only focus on images, plan to do also videos identify presence of women on images: combine face detection with facial distribution - deep learning model from facebook - model is trained on different dataset, validated with their own sample data. - model classifies certain attributes: gender - from the model predictions on instagram posts, a score? is derived to compare in a quant analysis
+
+results: 20% of all detected faces are women. High variation across parties and countries.
+
+even when you control for other factors like descr. repr. in parliament, women descr. repr. is low but when you compare prominence and centrality, women are more prominent/central when they appear in pictures
+
+did you look at if images where only one person was depicted were more often women or men? Could you conclude that if a man is prominent in the picture there will be women just to show that there are women present? Or vice versa, if a woman is prominent, is it less likely that there is also a men present?
+
+see that parties increasingly use images without faces --\> what are they using instead?
