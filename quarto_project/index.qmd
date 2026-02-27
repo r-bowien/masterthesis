@@ -36,7 +36,7 @@ what parties focus on what metrics? --\> which metric do parties aim to be highe
 
 WHAT IS THE RESEARCH GAP?
 
-The consuming side of social media in general has been widely studied [@boulianne2015]. It fosters political participation when individuals engage with political content through social media [@kahne_political_2018; @halversen_memeing_2023]. The distributing side however, seems to fly under the radar, questions about the utility of social media for vote-seeking political actors remain largely unadressed in the literature although parties and politicians have long realised how important a successful social media presence is. Most research on the distributing side examines its usefulness specifically for right-wing populists. They seem to be exceptionally successful in creating social media reach and deploy different tactics than other political groups [@engesser_populism_2017].
+The consuming side of social media in general has been widely studied [@boulianne_social_2015]. It fosters political participation when individuals engage with political content through social media [@kahne_political_2018; @halversen_memeing_2023]. The distributing side however, seems to fly under the radar, questions about the utility of social media for vote-seeking political actors remain largely unadressed in the literature although parties and politicians have long realised how important a successful social media presence is. Most research on the distributing side examines its usefulness specifically for right-wing populists. They seem to be exceptionally successful in creating social media reach and deploy different tactics than other political groups [@engesser_populism_2017].
 
 Memes are a tool to create a sense of belonging through shared cultural experiences. People who know how to interpret a meme are the in-group, people who are not familiar with it are the out-group –\> While normally, parties want to attract many people and therefore should keep memes generic and easy to understand, populists have an incentive (ingroup vs outgroup) to deploy more memes that require the person to already be knowledgeable/part of that culture on that topic \[SOURCE\].
 
@@ -60,11 +60,51 @@ Expectations:
 
 -   extreme ideas will be communicated through memes rather than clearly spoken out (how to test?)
 
+-   populists create more memes with higher requirements of cultural knowledge (in-group vs out-group)
+
 -   
 
 # Methodology
 
-Simple surveys asking for information consumption habits are not sufficient to address this question. It is necessary to examine content between platforms and habits of consuming that content. Ideally the project would include data on information consumption habits paired with quantitative content analysis and statistical modelling. Data on consumption habits (that include posted and interacted content) is difficult to access and collecting statistically meaningful survey data with the limited resources of a master's student is not feasible. Hence, the methodological approach would not include individual level data and only use platforms that provide API access. Utilizing capabilities of AI, prevalent political content could be analysed across various metrics and classified on political scales.
+Simple surveys asking for information consumption habits are not sufficient to address this question. It is necessary to examine content between platforms and habits of consuming that content. Ideally the project would include data on information consumption habits paired with quantitative content analysis and statistical modeling. Data on consumption habits (that include posted and interacted content) is difficult to access and collecting statistically meaningful survey data with the limited resources of a master's student is not feasible. Hence, the methodological approach would not include individual level data and only use platforms that provide API access. Utilizing capabilities of AI, prevalent political content could be analysed across various metrics and classified on political scales.
+
+what predicts the use of a meme?
+
+Need to develop metrics for model to be trained on (look for literature):
+
+-   humour vs plaing it straight
+
+-   is it targeted?
+
+    -   anti-who?
+
+<!-- -->
+
+-   degree of required cultural knowledge (find a better, literature backed term here) (float)
+
+-   left-wing ideas vs right-wing vs moderate ideas and everything in-between (float)
+
+-   political vs non-political (logical)
+
+-   meme-posts vs non-meme posts (logical)
+
+Non-AI-metrics:
+
+-   reach
+
+    -   views
+
+    -   likes/dislikes
+
+-   engagement
+
+    -   likes
+
+    -   shares
+
+    -   saves
+
+    -   comments
 
 # Results and Discussion
 
@@ -77,6 +117,24 @@ Analysis focuses mainly on the distributing side and cannot draw any conclusions
 # Conclusion
 
 # NOTES
+
+twitter might still be possible
+
+memes have become more popular, –\> think about time component ant period, eg.:
+
+-   could look at a election period and how memes are used at different stages
+
+there are databases of politcal ads: comparison between memefied ads and normal ones –\> googling for meta political ad library, the sample is representative, already curated, images as data
+
+computational scientists for how to detect memes and datasets, not much poliscience here, compscience have more research on the method, a lot of research on racism and sexism, look for that
+
+can i get a ready made dataset?
+
+Next steps:
+
+lit review
+
+note: main question, empirical approach, data and methods
 
 Data needs to contain images or even videos (depending on availability) rather than text. Data is then used to train a model which should predict if it is right-leaning, left-leaning, neutral, polarising, empowering, etc... Is this feasible? What do I need to pay special attention to? Do you have ideas regarding the data gathering process?
 
