@@ -36,7 +36,9 @@ what parties focus on what metrics? --\> which metric do parties aim to be highe
 
 WHAT IS THE RESEARCH GAP?
 
-The consuming side of social media in general has been widely studied [@boulianne2015]. It fosters political participation when individuals engage with political content through social media [@kahne_political_2018; @halversen_memeing_2023]. The distributing side however, seems to fly under the radar, questions about the utility of social media for vote-seeking political actors remain largely unadressed in the literature although parties and politicians have long realised how important a successfull social media presence is.
+The consuming side of social media in general has been widely studied [@boulianne2015]. It fosters political participation when individuals engage with political content through social media [@kahne_political_2018; @halversen_memeing_2023]. The distributing side however, seems to fly under the radar, questions about the utility of social media for vote-seeking political actors remain largely unadressed in the literature although parties and politicians have long realised how important a successful social media presence is. Most research on the distributing side examines its usefulness specifically for right-wing populists. They seem to be exceptionally successful in creating social media reach and deploy different tactics than other political groups [@engesser_populism_2017].
+
+Memes are a tool to create a sense of belonging through shared cultural experiences. People who know how to interpret a meme are the in-group, people who are not familiar with it are the out-group –\> While normally, parties want to attract many people and therefore should keep memes generic and easy to understand, populists have an incentive (ingroup vs outgroup) to deploy more memes that require the person to already be knowledgeable/part of that culture on that topic \[SOURCE\].
 
 Although memes play a crucial role in cultural exchange, their impact on public opinion remains heavily understudied. While social media in general has rapidly risen to become the most studied predictor of public opinion \[SOURCE\], their exclusive cultural phenomenon seems to be ignored by many.
 
@@ -45,6 +47,20 @@ Although memes play a crucial role in cultural exchange, their impact on public 
 Political actors want to reach the voting population --\> social media offers new tool to do that, bypassing lense of 5th power (the media) --\> political actors looking for best way to utilise that new tool --\> memes are a superior way (transport information hidden beneath a layer of entertainment) –\> potential voters can be drawn towards a political narrative without being interested in politics
 
 ## Hypotheses
+
+Expectations:
+
+-   depending on platform, political memes will contain more left- or more right-wing ideas
+
+-   use of memes became more popular over time across all political groups
+
+-   memes create more engagement and reach than other content
+
+-   the more populist / extreme (?) the distributors are, the extremer the ideas expressed through memes will be
+
+-   extreme ideas will be communicated through memes rather than clearly spoken out (how to test?)
+
+-   
 
 # Methodology
 
@@ -55,6 +71,8 @@ Simple surveys asking for information consumption habits are not sufficient to a
 ## Limitations
 
 Bluesky is a small platform and its users are mostly left-leaning. The results would not be transferable to other platforms, especially when it comes to right-leaning content.
+
+Analysis focuses mainly on the distributing side and cannot draw any conclusions about how political memes are perceived or how they influence opinion.
 
 # Conclusion
 
