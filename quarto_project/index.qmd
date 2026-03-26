@@ -18,7 +18,7 @@ Memes consistently get a lot of online engagement and reach, they are easy to ac
 
 # Research Question
 
-What
+[Do political actors use memes for political advertising on social media and if so, how do these memes look like?]{.underline}
 
 How does the choice of social media platform influence public opinion on democratic representatives and democratic institutions?
 
@@ -34,13 +34,137 @@ what parties focus on what metrics? --\> which metric do parties aim to be highe
 
 # Literature Review
 
-WHAT IS THE RESEARCH GAP?
+Public opinion has always been a key element for political leaders even before it became an empirically studied scientific concept. A strong and unified public opinion has the power to motivate a people to revolt and overthrow a government. Hence, whether the people are in favour or in opposition of the ruling elites is a crucial question for every leader to consider, even in non-democratic systems. Public opinion as a political force has been theorized since the 18th century with famous figures like Rousseau, Tocqueville, Bentham and others [@donsbach_historical_2008]. Modern research on the concept has picked up in the early 20th century, when Lippmann published his highly influential work "Public Opinion". Since then, research on public opinion was institutionalised and developed for quantitative methods [@donsbach_historical_2008; @price_public_1992].
+
+Claim
+
+The internet and especially social media has heavily influenced public opinion research, both methodologically and theoretically.
+
+Argument
+
+People get their information from more sources than newspapers, TV and peers. Social media especially has remarkable influence on public opinion.
+
+Support
+
+Summarize and Link
+
+## Public opinion in times of social media
+
+Claim
+
+Argument
+
+Support
+
+Summarize and Link
+
+### Memes as a political entertainment tool
+
+Topic and Claim
+
+Memes are a fitting instrument to address public opinion.
+
+Argument
+
+They make use of stereotypes, categorising information and simplify complex relationships, all in a humouristic way.
+
+Support claim
+
+This fits surprisingly well into Lippmann's view on modern citizens. Citizens are not "omnicompetent", they are not perfectly informed about the political world. Instead, they are using mental shortcuts; "stereotypes" to categorise and simplify the complex events and relations of reality, creating a "pseudo-environment". Combined with the means of politainment \[SOURCE\], memes are a near perfect fit for any political strategist who aims to transport a political message to the public. (It is difficult to transport complex political information, that may be why populist messages work better on social media)
+
+Summarize and Link
+
+Claim
+
+Before the rise of social media politicians ways of communicating with the electorate were restricted to the rules and filters of media outlets and reporters when communicating with the masses. Argument
+
+Media was seen as something the politicians needed to become popular. Nowadays, the relationship shifted. The media happily focuses on popular politicians, as it is incentivised to generate engagement and therefore revenue [@mazzoleni_socially_2018]. Instead of the filtering lenses of journalists, the rules of algorithms now dictates which messages are communicated to the masses.
+
+Support
+
+Since it has become evident that politicians successfully utilise this lacking filter via social media, a lot of research focused on supported this claim [@stieglitz2013; @engesser_populism_2017; @mazzoleni_socially_2018; @mutascu_online_2025; @stavrakakis_research_2024; @bos_populist_2014; @bobba_likeability_2018; @blassnig_populist_2021].
+
+Summarize and Link
+
+Claim
+
+Political information seamlessly reaches broader audiences.
+
+Argument
+
+Political entertainment is just one topic displayed on social media feeds. It appears along with comedy, lifestyle, technology, gaming, cooking and more.
+
+Support
+
+A recent study of party-related posts on social media in Germany showcases that politicians from parties on the political fringes are more engaged and successful in their social media presence. Posts that are in connection to extremer parties are shown much quicker than posts of parties in the political centre [@verwiebe_digitalisiert_2025]. This shows the potential of social media as a political tool and also how important it is to employ tactics that play into the preferences of the algorithms.
+
+Summarize and Link
+
+Claim
+
+Memes are a heavily understudied topic. Literature has only recently started to look into political meme culture at all with important work receiving little attention, both in the media and academics.
+
+Argument
+
+The most cited work on the influence of memes on public opinion specifically that comes up when looking for "memes and public opinion" on Google Scholar is cited 34 times (as of 26.03.2026) [@alafnan_role_2025] followed by 22 citations (as of 26.03.2026) of a case study of one particular meme [@handayani_use_2016].
+
+Support
+
+Other studies that examine the influence of political memes on public opinion do find that memes can be used to shape public opinion, but often lack large-n data, methodological quality or only focus on a single country context [@munawar_role_2025; @misra_role_2024; @younis_memeing_20260]
+
+Summarize and Link
+
+While the literature on political memes is still in its early stages, its relevance becomes clear and political actors have already realised this. This paper works towards uncovering how memes are utilised by political actors to shape public opinion.
+
+Claim
+
+While literature on the impact of social media on public opinon is plentiful, a specific focus on the impact of memes is just emerging. A similar understudied topic is the distributing side. Few studies have tackled the question who shares political memes and with what purpose?
+
+Argument
+
+Actors might have different motivations. For political actors, the obvious reason to distribute political memes is the endgoal of swaying public opinion in their favour. Other actors might just distribute political memes for the sole reason that they expect them to perform well, so they can grow their followers. These actors may or may not follow a political agenda. This however is a question for another research paper.
+
+Support
+
+One study identifies different motivations for ordinary citizens to share and interact with political memes. Memes can be a form of political expression across different levels of political interest. Respondents aim to make fun of politicians and/or persuade others [@halversen_memeing_2023].
+
+Summarize and Link
+
+Claim
+
+Argument
+
+Support
+
+Summarize and Link
+
+Claim
+
+Argument
+
+Support
+
+Summarize and Link
+
+## Populism and Social Media
+
+Claim
+
+Argument
+
+Support
+
+Summarize and Link
 
 The consuming side of social media in general has been widely studied [@boulianne_social_2015]. It fosters political participation when individuals engage with political content through social media [@kahne_political_2018; @halversen_memeing_2023]. The distributing side however, seems to fly under the radar, questions about the utility of social media for vote-seeking political actors remain largely unadressed in the literature although parties and politicians have long realised how important a successful social media presence is. Most research on the distributing side examines its usefulness specifically for right-wing populists. They seem to be exceptionally successful in creating social media reach and deploy different tactics than other political groups [@engesser_populism_2017].
+
+### Memes as a populist tool
 
 Memes are a tool to create a sense of belonging through shared cultural experiences. People who know how to interpret a meme are the in-group, people who are not familiar with it are the out-group –\> While normally, parties want to attract many people and therefore should keep memes generic and easy to understand, populists have an incentive (ingroup vs outgroup) to deploy more memes that require the person to already be knowledgeable/part of that culture on that topic \[SOURCE\].
 
 Although memes play a crucial role in cultural exchange, their impact on public opinion remains heavily understudied. While social media in general has rapidly risen to become the most studied predictor of public opinion \[SOURCE\], their exclusive cultural phenomenon seems to be ignored by many.
+
+## What is the research gap and what was the research question again?
 
 # Theory
 
@@ -167,3 +291,33 @@ even when you control for other factors like descr. repr. in parliament, women d
 did you look at if images where only one person was depicted were more often women or men? Could you conclude that if a man is prominent in the picture there will be women just to show that there are women present? Or vice versa, if a woman is prominent, is it less likely that there is also a men present?
 
 see that parties increasingly use images without faces --\> what are they using instead?
+
+AI notes (DO NOT USE; JUST FOR STRUCTURING THOUGHTS):
+
+[Walter Lippmann](https://www.google.com/search?q=walter+lippmann&kgmid=/m/01cqnm&sa=X&ved=2ahUKEwiL1bmVjLuTAxWyUUEAHXbML4MQ3egRegQIARAC)
+
+(1889–1974) is a seminal figure in both political science and media studies, best known for his 1922 book, **"Public Opinion."** His research fundamentally shifted the way scholars think about how citizens perceive the world and how democracy functions in the modern, complex information age.
+
+Lippmann’s primary contribution to public opinion research was his critique of the "omnicompetent citizen"—the democratic ideal that every individual could be fully informed and rational about all political issues. Instead, he argued that modern society had become too large and complex for any individual to directly grasp, necessitating a more nuanced view of how "public opinion" is actually formed.
+
+Core Concepts from Lippmann’s Work
+
+-   **The "Pseudo-Environment":** Lippmann argued that the "real" environment is too vast and complex for direct human experience. Instead, people live in a "pseudo-environment"—a subjective, mediated mental construct shaped by news media, propaganda, and cultural filters. Individuals do not react to the world as it is, but to these internal "pictures in their heads."
+
+-   **Stereotypes:** Lippmann coined the modern, psychological use of the term "stereotype." He viewed these not merely as prejudices, but as necessary cognitive shortcuts. Because the world is overwhelming, people use these "mental maps" to organize information and simplify complex reality. While functional for navigation, they often lead to distorted, rigid, and inaccurate perceptions.
+
+-   **The "Manufacture of Consent":** This influential concept refers to the management of public opinion by elite institutions. Lippmann observed that because the public is often uninformed or misled by these distorted images, political and social leaders can—and do—deliberately manipulate the flow of information to shape public sentiment in support of their policies.
+
+-   **Critique of Democracy and the Role of Expertise:** Lippmann was deeply skeptical of the feasibility of direct democracy in an era of mass media. He proposed that, rather than relying on an uninformed public to make granular policy decisions, a "specialized class" of experts should interpret facts and inform decision-makers. This position famously sparked the **Lippmann-Dewey debate**, with the philosopher John Dewey countering that democracy must be about *educating* the public to participate, rather than bypassing them through technocracy.
+
+Why He Matters to Political Science Today
+
+Lippmann’s work remains highly relevant for several reasons:
+
+1.  **Media Effects Theory:** His insights laid the groundwork for modern media studies, including **agenda-setting theory** (which studies how media prioritizes which issues the public considers important) and **framing** (how the presentation of information influences interpretation).
+
+2.  **Information Disorder:** His warnings about the "pseudo-environment" serve as a 100-year-old warning about today’s "echo chambers," "filter bubbles," and the rapid spread of misinformation or "fake news."
+
+3.  **The Tension Between Expertise and Democracy:** The modern debate over the role of technocrats versus populism in governance is a direct continuation of the concerns Lippmann raised in the 1920s.
+
+**In summary:** While Lippmann was a journalist by trade, his *Public Opinion* transformed political science by introducing a **social-psychological lens** to the study of government. He forced scholars to abandon naive assumptions about a perfectly informed electorate and instead focus on the mechanisms of perception, the psychology of bias, and the structural vulnerabilities of democratic discourse.
