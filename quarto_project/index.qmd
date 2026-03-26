@@ -6,175 +6,76 @@ authors:
     roles: writing
     corresponding: true
 bibliography: references.bib
+format: docx
 ---
 
 # Introduction
 
 Digital media has become the most prevalent source of information. Never before has information been as accessible. Assuming accessible information improves accountability, democracies should be closer to perfect accountability than ever before. Yet, public discourse is often dominated by emotion paired with incomplete information rather than fact, especially when discourse happens on social media. The choice of information medium is not between analogue or digital anymore. It is about which algorithm we trust to offer us information. It is about how conscious we consume information. It is about the value of truth in a world where information is always entertainment.
 
-Entertainment is the universal language of social media. Information that does not entertain on social media does not survive. In this world, something thrives that rarely finds its way to the real haptic world. This something are memes. Today we speak and think of a meme solely in the digital context, although its origins date back to the year 1976 where Richard Dawkins describes a meme as "...tunes, ideas, catch-phrases, clothes fashions, ways of making pots or of building arches."[@dawkins_selfish_2016]
+Entertainment is the universal language of social media. Information that does not entertain on social media does not survive. In this world, something thrives that rarely finds its way to the real haptic world. This something are memes. Today we speak and think of a meme nearly solely in the digital context, although its origins date back to the year 1976 where Richard Dawkins describes a meme as "...tunes, ideas, catch-phrases, clothes fashions, ways of making pots or of building arches."[@dawkins_selfish_2016]. On first glance today's interpretation of a meme differs a lot from Dawkin's. After all, memes are those funny images in bad quality with silly captions, right? While that might be true for the early internet memes, by now, they exist in a plethora of types.
 
-Memes consistently get a lot of online engagement and reach, they are easy to access, work with simple language and images, an idea or argument is transferred quicker than with any other form of post and its fun (entertainment).
+(TODO: More depth in definition of memes and add examples!)
+
+Memes consistently get a lot of online engagement and reach, they are fun, easy to access, work with simple language and images, an idea or argument is transferred quicker than with any other form of post. It becomes especially interesting when memes become political. They then become political entertainment (SOURCE!).
 
 # Research Question
 
-[Do political actors use memes for political advertising on social media and if so, how do these memes look like?]{.underline}
-
-How does the choice of social media platform influence public opinion on democratic representatives and democratic institutions?
-
-How political discourse is shaped by cultural exchange on social media platforms e.g. through memes or short videos?
-
-This would then focus on platform level discourse and inferences about public opinion would be limited to digital spheres.
-
-How are cultural items utilised to influence political discourse on social media platforms?
-
-How are memes utilised to influence political discourse on Bluesky?
-
-what parties focus on what metrics? --\> which metric do parties aim to be highest? more engagement or more reach? --\>
+Do political actors use memes for political advertising on social media and if so, are they differing across parties?
 
 # Literature Review
 
 Public opinion has always been a key element for political leaders even before it became an empirically studied scientific concept. A strong and unified public opinion has the power to motivate a people to revolt and overthrow a government. Hence, whether the people are in favour or in opposition of the ruling elites is a crucial question for every leader to consider, even in non-democratic systems. Public opinion as a political force has been theorized since the 18th century with famous figures like Rousseau, Tocqueville, Bentham and others [@donsbach_historical_2008]. Modern research on the concept has picked up in the early 20th century, when Lippmann published his highly influential work "Public Opinion". Since then, research on public opinion was institutionalised and developed for quantitative methods [@donsbach_historical_2008; @price_public_1992].
 
-Claim
+The internet and especially social media has heavily influenced public opinion research, both methodologically and theoretically. People get their information from more sources than newspapers, TV and peers. Social media especially has remarkable influence on public opinion.
 
-The internet and especially social media has heavily influenced public opinion research, both methodologically and theoretically.
-
-Argument
-
-People get their information from more sources than newspapers, TV and peers. Social media especially has remarkable influence on public opinion.
-
-Support
-
-Summarize and Link
-
-## Public opinion in times of social media
-
-Claim
-
-Argument
-
-Support
-
-Summarize and Link
+Before the rise of social media politicians ways of communicating with the electorate were restricted to the rules and filters of media outlets and reporters when communicating with the masses. Media was seen as something the politicians needed to become popular. Nowadays, the relationship shifted. The media happily focuses on popular politicians, as it is incentivised to generate engagement and therefore revenue [@mazzoleni_socially_2018]. Instead of the filtering lenses of journalists, the rules of algorithms now dictates which messages are communicated to the masses. Since it has become evident that politicians successfully utilise this lacking filter via social media, a lot of research focused on supported this claim [@stieglitz2013; @engesser_populism_2017; @mazzoleni_socially_2018; @mutascu_online_2025; @stavrakakis_research_2024; @bos_populist_2014; @bobba_likeability_2018; @blassnig_populist_2021].
 
 ### Memes as a political entertainment tool
 
-Topic and Claim
+While literature on the impact of social media on public opinon is plentiful, a specific focus on the impact of memes is just emerging. A similar understudied topic is the distributing side. Few studies have tackled the question who shares political memes and with what purpose [@alafnan_role_2025]. Actors might have different motivations. For political actors, one obvious reason to distribute political memes is the endgoal of swaying public opinion in their favour. Other actors might just distribute political memes for the sole reason that they expect them to perform well, so they can grow their followers. These actors may or may not follow a political agenda. This however is a question for another research paper. For ordinary citizens, one study identifies different motivations to share and interact with political memes. Memes can be a form of political expression across different levels of political interest. Respondents aim to make fun of politicians and/or persuade others [@halversen_memeing_2023].
 
-Memes are a fitting instrument to address public opinion.
+Memes are a fitting instrument to address public opinion. They make use of stereotypes, categorising information and simplify complex relationships, all in a humouristic way. This fits surprisingly well into Lippmann's view on modern citizens. Citizens are not "omnicompetent", they are not perfectly informed about the political world. Instead, they are using mental shortcuts; "stereotypes" to categorise and simplify the complex events and relations of reality, creating a "pseudo-environment". Combined with the means of politainment \[SOURCE\], memes are a near perfect fit for any political strategist who aims to transport a political message to the public. (TODO: where to make this link?: It is difficult to transport complex political information, that may be a reason why populist messages work better on social media)
 
-Argument
+Political information seamlessly reaches broader audiences when packaged as entertainment. Political entertainment is just one topic displayed on social media feeds. It appears along with comedy, lifestyle, technology, gaming, cooking and more. A recent study of party-related posts on social media in Germany showcases that politicians from parties on the political fringes are more engaged and successful in their social media presence. Posts that are in connection to extremer parties are shown much quicker than posts of parties in the political centre [@verwiebe_digitalisiert_2025]. This shows the potential of social media as a political tool and also how important it is to employ tactics that play into the preferences of the algorithms.
 
-They make use of stereotypes, categorising information and simplify complex relationships, all in a humouristic way.
-
-Support claim
-
-This fits surprisingly well into Lippmann's view on modern citizens. Citizens are not "omnicompetent", they are not perfectly informed about the political world. Instead, they are using mental shortcuts; "stereotypes" to categorise and simplify the complex events and relations of reality, creating a "pseudo-environment". Combined with the means of politainment \[SOURCE\], memes are a near perfect fit for any political strategist who aims to transport a political message to the public. (It is difficult to transport complex political information, that may be why populist messages work better on social media)
-
-Summarize and Link
-
-Claim
-
-Before the rise of social media politicians ways of communicating with the electorate were restricted to the rules and filters of media outlets and reporters when communicating with the masses. Argument
-
-Media was seen as something the politicians needed to become popular. Nowadays, the relationship shifted. The media happily focuses on popular politicians, as it is incentivised to generate engagement and therefore revenue [@mazzoleni_socially_2018]. Instead of the filtering lenses of journalists, the rules of algorithms now dictates which messages are communicated to the masses.
-
-Support
-
-Since it has become evident that politicians successfully utilise this lacking filter via social media, a lot of research focused on supported this claim [@stieglitz2013; @engesser_populism_2017; @mazzoleni_socially_2018; @mutascu_online_2025; @stavrakakis_research_2024; @bos_populist_2014; @bobba_likeability_2018; @blassnig_populist_2021].
-
-Summarize and Link
-
-Claim
-
-Political information seamlessly reaches broader audiences.
-
-Argument
-
-Political entertainment is just one topic displayed on social media feeds. It appears along with comedy, lifestyle, technology, gaming, cooking and more.
-
-Support
-
-A recent study of party-related posts on social media in Germany showcases that politicians from parties on the political fringes are more engaged and successful in their social media presence. Posts that are in connection to extremer parties are shown much quicker than posts of parties in the political centre [@verwiebe_digitalisiert_2025]. This shows the potential of social media as a political tool and also how important it is to employ tactics that play into the preferences of the algorithms.
-
-Summarize and Link
-
-Claim
-
-Memes are a heavily understudied topic. Literature has only recently started to look into political meme culture at all with important work receiving little attention, both in the media and academics.
-
-Argument
-
-The most cited work on the influence of memes on public opinion specifically that comes up when looking for "memes and public opinion" on Google Scholar is cited 34 times (as of 26.03.2026) [@alafnan_role_2025] followed by 22 citations (as of 26.03.2026) of a case study of one particular meme [@handayani_use_2016].
-
-Support
-
-Other studies that examine the influence of political memes on public opinion do find that memes can be used to shape public opinion, but often lack large-n data, methodological quality or only focus on a single country context [@munawar_role_2025; @misra_role_2024; @younis_memeing_20260]
-
-Summarize and Link
-
-While the literature on political memes is still in its early stages, its relevance becomes clear and political actors have already realised this. This paper works towards uncovering how memes are utilised by political actors to shape public opinion.
-
-Claim
-
-While literature on the impact of social media on public opinon is plentiful, a specific focus on the impact of memes is just emerging. A similar understudied topic is the distributing side. Few studies have tackled the question who shares political memes and with what purpose?
-
-Argument
-
-Actors might have different motivations. For political actors, the obvious reason to distribute political memes is the endgoal of swaying public opinion in their favour. Other actors might just distribute political memes for the sole reason that they expect them to perform well, so they can grow their followers. These actors may or may not follow a political agenda. This however is a question for another research paper.
-
-Support
-
-One study identifies different motivations for ordinary citizens to share and interact with political memes. Memes can be a form of political expression across different levels of political interest. Respondents aim to make fun of politicians and/or persuade others [@halversen_memeing_2023].
-
-Summarize and Link
-
-Claim
-
-Argument
-
-Support
-
-Summarize and Link
-
-Claim
-
-Argument
-
-Support
-
-Summarize and Link
+While the literature on political memes is still in its early stages, its relevance becomes clear and political actors have already realised this. Political ads started to make use of the humourous and simplifying way of communicating political messages through memes [@piata_when_2016] (ADD MORE SOURCES TO THIS CLAIM).
 
 ## Populism and Social Media
 
-Claim
-
-Argument
-
-Support
-
-Summarize and Link
+Defining populism is a near impossible task. Scholars have even referred to this struggle as Cinderella-complex (Aschenputtel-Komplex): There is a shoe formed like populism, but there is no foot fitting the shoe [@priester_rechter_2012]. Nevertheless, one definition has been widely adopted to act as a common baseline understanding of populism; the "ideational" approach. It defines populism as a “thin-centered ideology that considers society to be ultimately separated into two homogeneous and antagonistic groups, ‘the pure people’ versus the ‘corrupt elite,’ and which argues that politics should be an expression of the volonté générale (general will) of the people” [@mudde_populist_2007, p.23].
 
 The consuming side of social media in general has been widely studied [@boulianne_social_2015]. It fosters political participation when individuals engage with political content through social media [@kahne_political_2018; @halversen_memeing_2023]. The distributing side however, seems to fly under the radar, questions about the utility of social media for vote-seeking political actors remain largely unadressed in the literature although parties and politicians have long realised how important a successful social media presence is. Most research on the distributing side examines its usefulness specifically for right-wing populists. They seem to be exceptionally successful in creating social media reach and deploy different tactics than other political groups [@engesser_populism_2017].
 
 ### Memes as a populist tool
 
-Memes are a tool to create a sense of belonging through shared cultural experiences. People who know how to interpret a meme are the in-group, people who are not familiar with it are the out-group –\> While normally, parties want to attract many people and therefore should keep memes generic and easy to understand, populists have an incentive (ingroup vs outgroup) to deploy more memes that require the person to already be knowledgeable/part of that culture on that topic \[SOURCE\].
+Previous sections have discussed the potential of memes as a political communication tool. Following section dissects the mechanisms behind how the interplay between the characteristics of memes and the goals and means of political actors could work.
 
-Although memes play a crucial role in cultural exchange, their impact on public opinion remains heavily understudied. While social media in general has rapidly risen to become the most studied predictor of public opinion \[SOURCE\], their exclusive cultural phenomenon seems to be ignored by many.
+Some scholars attempt to interpret the distribution of memes as a tool for agenda-setting [@misra_role_2024]. However, this attempt fall short when it comes to establishing a clear empirical link. The vast majority of memes exist on social media. This is a very fragmented and highly volatile space where political discussions are limited due to short attention spans and quickly changing topics. While memes might be supportive in pushing a certain topic on the public's agenda, attributing a discourse setting power to them would be misleading as meme-distributors do not have the same incentive to stay locked-in on a topic as traditional media has [@langer_political_2021]. The discourse influencing power is more likely to be subtle. Memes foster societal subgroups to create "knowing" communities and unaware outsiders [@newton_more_2022].
+
+Memes are a tool to create a sense of belonging through shared cultural experiences. People who know how to interpret a meme form an inner circle, people who are not familiar with it become excluded outsiders. "For example, a hashtag under meme posts by the Proud Boys movement is #DeusVult which (allegedly) originates from a battle cry in the Crusaded and may have emerged due to a popular game called "Crusader Kings". It is used to promote another holy war against Islam [@decook_memes_2018]. These subgroups themselves rarely set the agenda, but can play a big role in creating ideology supporting forces whenever their identifying topic makes its way on the public agenda.
+
+The tendency of populist actors to create a homogeneous belonging group and an antagonistic outgroup naturally connects to the properties of meme culture. While normally, parties want to attract many people and therefore should keep memes generic and easy to understand, populists have an incentive to deploy more memes that require the person to already be knowledgeable/part of that culture on that topic.
 
 ## What is the research gap and what was the research question again?
 
+Memes are a heavily understudied topic. Literature has only recently started to look into political meme culture at all with important work receiving little attention, both in the media and academics. The most cited work on the influence of memes on public opinion specifically that comes up when looking for "memes and public opinion" on Google Scholar is cited 34 times (as of 26.03.2026) [@alafnan_role_2025] followed by 22 citations (as of 26.03.2026) of a case study of one particular meme [@handayani_use_2016]. Other studies that examine the influence of political memes on public opinion do find that memes can be used to shape public opinion, but often lack large-n data, methodological quality or only focus on a single country context [@munawar_role_2025; @misra_role_2024; @younis_memeing_2026].
+
+This paper works towards uncovering how memes are utilised by political actors to shape public opinion.
+
 # Theory
 
-Political actors want to reach the voting population --\> social media offers new tool to do that, bypassing lense of 5th power (the media) --\> political actors looking for best way to utilise that new tool --\> memes are a superior way (transport information hidden beneath a layer of entertainment) –\> potential voters can be drawn towards a political narrative without being interested in politics
+Main logical chain:
 
-## Hypotheses
+Political actors want to reach the voting population --\> social media offers new tool to do that, bypassing lense of 5th power (the media) --\> political actors looking for best way to utilise that new tool --\> memes are a superior way (transport information hidden beneath a layer of entertainment) –\> potential voters can be drawn towards a political narrative without being interested in politics –\> poltical actors will use memes to communicate with electorate
+
+Populist claim:
+
+Memes are fostering ingroup vs outgroups –\> common tactic for populists to create in-vs-out group –\> memes by populist political actors should address fewer people but be more intense / create outgroup vs ingroup narrative
+
+## Hypotheses and Operationalisation
 
 Expectations:
-
--   depending on platform, political memes will contain more left- or more right-wing ideas
 
 -   use of memes became more popular over time across all political groups
 
@@ -186,11 +87,21 @@ Expectations:
 
 -   populists create more memes with higher requirements of cultural knowledge (in-group vs out-group)
 
--   
-
 # Methodology
 
-Simple surveys asking for information consumption habits are not sufficient to address this question. It is necessary to examine content between platforms and habits of consuming that content. Ideally the project would include data on information consumption habits paired with quantitative content analysis and statistical modeling. Data on consumption habits (that include posted and interacted content) is difficult to access and collecting statistically meaningful survey data with the limited resources of a master's student is not feasible. Hence, the methodological approach would not include individual level data and only use platforms that provide API access. Utilizing capabilities of AI, prevalent political content could be analysed across various metrics and classified on political scales.
+A data corpus of political advertisements on the Meta platforms will be used.
+
+OR
+
+MemePeril, a curated corpus of memes on reddit that focuses on harmful content will be used.
+
+QUESTION: What should I focus on? There might not be enough memes in the advertisement library. If there are not enough, should I change focus to general occurance of memes? –\> MemePeril
+
+SOLUTION(?): use meme corpus that does not include whether the poster of a meme is a political actor / party. Change focus/RQ to how messages transported in memes differ across ideological/political groups. –\> would require to cluster memes into different ideological/political groups (maybe a corpus like this already exists?) and identify messages within the memes (use llms?)
+
+Most political advertisement is not memefied. To distinguish between traditional ads and memes, the method behind meme-hunter is used. TODO: is this actually accessible/ open source?
+
+Until now, the field of political science has completely missed out on the use of memes as political advertisement has completely missed out on the opportunities of computer vision analysis. Computer science however has tested their methods on different subjects, one of them being memes [@courtois_computer_2023]. Computer vision can successfully be used to automatically detect common features across image-based memes and map them out network-like. This way, the tracking of a meme in online space becomes much easier and scalable. To identify patterns across different political actors in the ad-library, feature matching using Oriented FAST and the Rotated BRIEF (ORB) feature detector from the OpenCV Python package will be used in accordance to the proposed method of Courtois and Frissen.
 
 what predicts the use of a meme?
 
